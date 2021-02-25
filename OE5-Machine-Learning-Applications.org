@@ -1,6 +1,6 @@
 * <<<OE5>>> MACHINE LEARNING APPLICATIONS
 :properties:
-:author: S. Rajalakshmi
+:author: S. Rajalakshmi and M.Saritha
 :end:
 
 #+begin_comment
